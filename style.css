@@ -1,0 +1,74 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header-lef img {
+    margin-left: 30px;
+    height: 40px;
+    display: inline;
+}
+
+.titulo {
+    display: inline-block;
+}
+
+.header-lef nav {
+    display: inline-block;
+    padding-left: 700px;
+}
+
+nav a{
+    margin-left: 10px;
+    text-decoration: none;
+    color: rgb(161, 161, 161);
+}
+
+.Boton-Login {
+    background-color: rgb(3, 126, 214) ;
+    border-radius: 25px;
+    padding: 10px 20px;
+    color: white;
+}
+
+.contenido {
+    margin-bottom: -50px;
+    font-size: large;
+    margin: 88px;
+    margin-top: 200px;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 35px;
+    color: black;
+    font-weight: bold;
+}
+
+p {
+    font-family: sans-serif;
+    color: rgb(153, 153, 153);
+}
+
+.persona {
+    margin-top: 200px;
+    height: 500px;
+    float: right;
+    margin-top: -415px;
+    margin-right: 40px;
+}
+
+.Boton-Started{
+    background-color: rgb(0, 166, 255);
+    font-family: sans-serif;    
+    font-size: 20px;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    border-radius: 25px;
+}
+
+.acomodar-boton{
+    margin-top: 30px;
+}
